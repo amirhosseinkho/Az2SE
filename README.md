@@ -48,7 +48,7 @@
 
 <tr>
 <td width="64">
-<p><strong>2</strong></p>
+<p><strong>3</strong></p>
 </td>
 <td width="198">
 <p>Main</p>
@@ -78,7 +78,7 @@
 
 <tr>
 <td width="64">
-<p><strong>4</strong></p>
+<p><strong>5</strong></p>
 </td>
 <td width="198">
 <p>OnSiteOrderService</p>
@@ -88,6 +88,21 @@
 </td>
 <td width="292">
 <p> به دلیل اینکه از واسط OrderService استفاده شده است، نیاز  است که توابع کلاس PhoneOrderService که اضافه شدند را به صورت خالی در این کلاس نیز وجود داشته باشند.  </p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>6</strong></p>
+</td>
+<td width="198">
+<p>OnlineOrderSevice</p>
+</td>
+<td width="141">
+<p>ایجاد دو تابع جدید به دلیل implement واسط OrderService</p>
+</td>
+<td width="292">
+<p>به دلیل اینکه از واسط OrderService استفاده شده است، نیاز  است که توابع کلاس PhoneOrderService که اضافه شدند را به صورت خالی در این کلاس نیز وجود داشته باشند.</p>
 </td>
 </tr>
 
