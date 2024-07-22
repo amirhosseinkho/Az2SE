@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td width="64">
-<p><strong>۱</strong></p>
+<p><strong>1</strong></p>
 </td>
 <td width="198">
 <p>PhoneOrderService</p>
@@ -33,7 +33,7 @@
 
 <tr>
 <td width="64">
-<p><strong>۱</strong></p>
+<p><strong>2</strong></p>
 </td>
 <td width="198">
 <p>Main</p>
@@ -42,7 +42,22 @@
 <p>افزودن یک if و else برای زمانی که روش ثبت سفارش به صورت موبایلی باشد.</p>
 </td>
 <td width="292">
-<p></p>
+<p> در ادامه شرط در هنگام انتخاب روش ثبت، if و else قرار میگیرد و در ادامه آن orderService برابر با new PhoneOrderService قرار میگیرد و پس از آن سفارش به نام آن مشتری ثبت میشود. </p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>2</strong></p>
+</td>
+<td width="198">
+<p>Main</p>
+</td>
+<td width="141">
+<p>افزودن یک if و else برای زمانی که روش پرداخت سفارش به صورت موبایلی باشد.</p>
+</td>
+<td width="292">
+<p> پس از if و else و مشخص شدن روش پرداخت، تابع PhoneOrderPayment صدا زده میشود و به آن مبلغ قابل پرداخت داده میشود. </p>
 </td>
 </tr>
 
