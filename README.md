@@ -61,6 +61,35 @@
 </td>
 </tr>
 
+<tr>
+<td width="64">
+<p><strong>4</strong></p>
+</td>
+<td width="198">
+<p>OrderService</p>
+</td>
+<td width="141">
+<p> ایجاد دو تابع جدید برای روش پرداخت با موبایل </p>
+</td>
+<td width="292">
+<p> برای زمانی که روش پرداخت و ثبت سفارش از طریق موبایل است باید از دو تابع اضافه میشد. </p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>4</strong></p>
+</td>
+<td width="198">
+<p>OnSiteOrderService</p>
+</td>
+<td width="141">
+<p>ایجاد دو تابع جدید به دلیل implement واسط OrderService</p>
+</td>
+<td width="292">
+<p> به دلیل اینکه از واسط OrderService استفاده شده است، نیاز  است که توابع کلاس PhoneOrderService که اضافه شدند را به صورت خالی در این کلاس نیز وجود داشته باشند.  </p>
+</td>
+</tr>
 
 <tr>
 <td width="64">
